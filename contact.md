@@ -6,4 +6,6 @@ permalink: /contact/
 
 
 
-This will be the contact us page
+<p> Contact us at: </p>
+
+<p> bshi42@gatech.edu </p>
