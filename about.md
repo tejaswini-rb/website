@@ -15,6 +15,8 @@ You can find the open-source code for Developed by the FishStalker Team:
 
 
 You can find the VIP Course description and apply to join for academic credit:
+
+
  <a href="https://vip.gatech.edu/teams/vxs">Description</a> /
  <a href="https://vip.gatech.edu/apply-undergraduate-students">Apply for Course</a>
 
