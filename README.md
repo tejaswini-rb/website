@@ -19,6 +19,7 @@ Do Not Touch:
 - 404.html
 - Gemfile
 - Gemfile.lock
+- .DS_Store
 
 ------------------------------------------
 
