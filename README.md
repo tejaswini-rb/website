@@ -22,16 +22,16 @@ Do Not Touch:
 
 ------------------------------------------
 
-New blog post files MUST be named in the following format (ignoring the quotation marks): 
+New blog post files MUST be named in the following format : 
 
 `YEAR-MONTH-DAY-title.md`
 
 The year must have 4 digits and month and day must both have 2. The following text must also be included at the top of every blog post (excluding the quotation marks): 
 
-"--- <br/>
+'--- <br/>
 layout: post <br/>
 title:  [POST TITLE HERE] <br/>
 date:   [YEAR-MONTH-DAY] <br/>
----"
+---'
 
 The brackets should be replaced with the post's information. The date should be written in the same format as in the file name. 
