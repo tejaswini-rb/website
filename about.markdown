@@ -1,10 +1,26 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
 ---
 
 
+FishStalkers use machine learning to robustly understand the connection between observed behavior and brain function. Students will be working in groups arranged according to field. Each project will have a biological, mathematical, and computational component. Student will rely on the work and expertise of other in their group to communicate how the biology, math, and computer science should be considered with respect to their problem.
+
+You can find the open-source code for Developed by the FishStalker Team:
+ <a href="https://github.com/orgs/FishStalkers/repositories">FishStalker Repositiories</a> 
+
+
+You can find the VIP Course description and apply to join for academic credit:
+ <a href="https://vip.gatech.edu/teams/vxs">Description</a> /
+ <a href="https://vip.gatech.edu/apply-undergraduate-students">Apply for Course</a>
+
+
+
+
+
+
+<!-- 
 
 <ol>
     <li>Creating and improving classifiers which will predict cichlid fish behavior in video data
@@ -24,7 +40,7 @@ permalink: /about/
     <li>Creating a fish simulation that cichlids can interact with in aggression studies</li>
     <li>Generating a breeding simulation for producing cichlids hybrid with evolutionary significant traits</li>
     <li>Creating subject-conscious education materials for biology students learning mathematics and computer science</li>
-</ol>
+</ol> -->
 
 
 
