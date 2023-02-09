@@ -1,7 +1,7 @@
 ---
 ## DO NOT EDIT ANYTHING ABOVE THIS
-title: positions
+title: Positions
 permalink: /positions/
 ---
 
-sdfsdfsdfd
+Information on new positions here

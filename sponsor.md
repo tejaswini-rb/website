@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Sponsor
+title: Sponsors
 permalink: /sponsor/
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
+
+Information about potential sponsors here
