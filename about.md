@@ -2,30 +2,18 @@
 layout: page
 title: "About"
 permalink: /about/
-
-
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
 
+<img src="/images/image1.jpg" alt="fish diagram">
 
 FishStalkers use machine learning to robustly understand the connection between observed behavior and brain function. Students will be working in groups arranged according to field. Each project will have a biological, mathematical, and computational component. Student will rely on the work and expertise of other in their group to communicate how the biology, math, and computer science should be considered with respect to their problem.
 
-You can find the open-source code for Developed by the FishStalker Team:
- <a href="https://github.com/orgs/FishStalkers/repositories">FishStalker Repositiories</a> 
+You can find the open-source code for Developed by the FishStalker Team <a href="https://github.com/orgs/FishStalkers/repositories">HERE</a>
 
+You can find the VIP Course description <a href="https://vip.gatech.edu/apply-undergraduate-students">HERE</a> and apply to join for academic credit <a href="https://vip.gatech.edu/teams/vxs">HERE</a>
 
-You can find the VIP Course description and apply to join for academic credit:
-
-
- <a href="https://vip.gatech.edu/teams/vxs">Description</a> /
- <a href="https://vip.gatech.edu/apply-undergraduate-students">Apply for Course</a>
-
-
-
-
-
-
-<!-- 
+<!--
 
 <ol>
     <li>Creating and improving classifiers which will predict cichlid fish behavior in video data
@@ -46,8 +34,6 @@ You can find the VIP Course description and apply to join for academic credit:
     <li>Generating a breeding simulation for producing cichlids hybrid with evolutionary significant traits</li>
     <li>Creating subject-conscious education materials for biology students learning mathematics and computer science</li>
 </ol> -->
-
-
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
