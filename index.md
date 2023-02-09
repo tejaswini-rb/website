@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
-This is the main page. We should put a picture and maybe a brief description of the team here. I believe the blog posts can be linked here as well. 
+
+<img src="/images/image2.jpg" alt="fish diagram">
+<!-- This is the main page. We should put a picture and maybe a brief description of the team here. I believe the blog posts can be linked here as well. -->
