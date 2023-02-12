@@ -6,5 +6,6 @@ layout: home
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
 
-<img src="/images/image2.jpg" alt="fish diagram">
+![fish diagram](/images/image2.jpg)
+
 <!-- This is the main page. We should put a picture and maybe a brief description of the team here. I believe the blog posts can be linked here as well. -->
