@@ -7,4 +7,4 @@ permalink: /contact/
 
 <p> Contact us at: </p>
 
-<p> bshi42@gatech.edu </p>
+<p> gtfishvip@gmail.com </p>
