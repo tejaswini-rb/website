@@ -5,4 +5,4 @@ permalink: /sponsor/
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
 
-Information about potential sponsors here
+Information about potential sponsors will be here
