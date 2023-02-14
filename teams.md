@@ -18,8 +18,24 @@ permalink: /teams/
 
 My research interests include Machine Learning, Modeling, Computational Biology, Biomathematics, and STEM education.</p>
 
+Lab Manager:
+
 <h2> Subteams </h2>
+<h1><a href= "/team_bios/bios.md">ML Computer Vision</a></h1>
+<h4>Team Leaders:</h4>
+<h4>Project Leaders:</h4>
+<h4>Team members:</h4>
+<h1><a href= "/team_bios/bios.md">ML Expression</a></h1>
+<h4>Team Leaders:</h4>
+<h4>Project Leaders:</h4>
+<h4>Team members:</h4>
 <h1><a href= "/team_bios/bios.md">Computer Science Analytics & Education</a></h1>
-<h4>Leaders:</h4>
+<h4>Team Leaders:</h4>
+<h4>Project Leaders:</h4>
+<h4>Team members:</h4>
+<h1><a href= "/team_bios/bios.md">Social Behavior</a></h1>
+<<h4>Team Leaders:</h4>
+<h4>Project Leaders:</h4>
+<h4>Team members:</h4>
 
 This should be the general team page. [Click here for a detailed bio](/team_bios/bios.md)
