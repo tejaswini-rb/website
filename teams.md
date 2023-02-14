@@ -33,8 +33,9 @@ Lab Manager: Anand
 <h4>Team Leaders: Arushi Aggarwal, Nadimul Bhuyan</h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
+
 <h1><a href= "/team_bios/bios.md">Social Behavior</a></h1>
-<<h4>Team Leaders: Annie Minor, Will Hancock</h4>
+<h4>Team Leaders: Annie Minor, Will Hancock</h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
 
