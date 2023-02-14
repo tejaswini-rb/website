@@ -3,7 +3,7 @@ layout:post
 title: Meet Our Team Leaders!
 date: 2023-02-13
 ---
-Here's a quick introduction to the various subteams in the Fishstalkers VIP and the team leaders in charge of them.
+Here's an introduction to the various subteams in the Fishstalkers VIP and the team leaders in charge of them.
 
 <h3>Annelie Minor: Social Behavior Team</h3>
 <p>IMG</p>
@@ -23,3 +23,8 @@ Here's a quick introduction to the various subteams in the Fishstalkers VIP and 
 <p>IMG</p>
 <p><strong>About the Team:</strong> I have taken on a co-leadership role for the Math and Computer Science Education Group, with a focus on research retention. My group will fovus on promoting our V.I,P through our website, building our reputation, as well as conducting research on education. Our concentration on research retention focuses on the best methods of teaching and we will be able to determine this through the conference we will be hosting as well as surveys we will be sending out.  </p>
 <p><strong>About Me:</strong> My hobbies include working out, cooking and hanging out with friends. I like to binge new tv shoes and play soccer. An interesting fact about myself is that I have a vast knowledge of subjects that may seem trivial to others.</p>
+
+<h3>Adam Bhavnagarwala: ML for Expression Team</h3>
+<p>IMG</p>
+<p><strong>About the Team:</strong> The goal of ML for expression is to use unsupervised clustering techniques to extract biologically significant expression of behavior using neuronal data.</p>
+<p><strong>About Me:</strong> Hi! My name is Adam. I am a sophomore here at GT studying cs (Intelligence & People). I am originally from Danbury, CT. I like to play basketball, workout, and watch shows. Some fun facts about me: I have a twin and that I like to sleep.</p>
