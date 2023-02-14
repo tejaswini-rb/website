@@ -18,23 +18,23 @@ permalink: /teams/
 
 My research interests include Machine Learning, Modeling, Computational Biology, Biomathematics, and STEM education.</p>
 
-Lab Manager:
+Lab Manager: Anand
 
 <h2> Subteams </h2>
 <h1><a href= "/team_bios/bios.md">ML Computer Vision</a></h1>
-<h4>Team Leaders:</h4>
+<h4>Team Leaders: Chinar Dankhara, Harini Mudradi, Asmita Lagwankar, Jahnavi Bhansali </h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
 <h1><a href= "/team_bios/bios.md">ML Expression</a></h1>
-<h4>Team Leaders:</h4>
+<h4>Team Leaders: Adam Bhav </h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
 <h1><a href= "/team_bios/bios.md">Computer Science Analytics & Education</a></h1>
-<h4>Team Leaders:</h4>
+<h4>Team Leaders: Arushi Aggarwal, Nadimul Bhuyan</h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
 <h1><a href= "/team_bios/bios.md">Social Behavior</a></h1>
-<<h4>Team Leaders:</h4>
+<<h4>Team Leaders: Annie Minor, Will Hancock</h4>
 <h4>Project Leaders:</h4>
 <h4>Team members:</h4>
 
