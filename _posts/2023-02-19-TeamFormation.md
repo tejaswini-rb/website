@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Team Formation
 date: 2023-02-19
 ---
