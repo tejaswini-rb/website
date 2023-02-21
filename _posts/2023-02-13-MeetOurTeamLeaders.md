@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Meet Our Team Leaders!
 date: 2023-02-13
 ---
