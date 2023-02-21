@@ -9,11 +9,13 @@ permalink: /SocialBehavior/
 <br>
 </br>
 <h3>Team Leader: Annelie Minor</h3>
-<img src="/images/IMG_0974%20-%20Annie%20Minor.JPG?raw=true" alt="IMG_0974 - Annie Minor.JPG">
+<img src="/images/IMG_0974%20-%20Annie%20Minor.JPG?raw=true" alt="IMG_0974 - Annie Minor.JPG"
+     width="600">
 <p><strong>About The Team Leader:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
 <br>
 </br>
 <h3>Team Leader: Will Hancock</h3>
 
-<img src="/images/Will%20Hancock.jpg?raw=true" alt="Will Hancock.jpg">
+<img src="/images/Will%20Hancock.jpg?raw=true" alt="Will Hancock.jpg"
+     width="500">
 <p><strong>About The Team Leader:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
