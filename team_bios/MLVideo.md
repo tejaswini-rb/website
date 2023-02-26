@@ -4,7 +4,7 @@ layout: page
 permalink: /MLVideo/
 ---
 
-<h1>ML for Video</h1>
+<h1>ML Computer Vision</h1>
 
 <p><strong>About the Team:</strong> </p>
 
