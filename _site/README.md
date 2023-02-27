@@ -36,3 +36,8 @@ date: [YEAR-MONTH-DAY] <br/>
 ---'
 
 The brackets should be replaced with the post's information. The date should be written in the same format as in the file name.
+
+Devs:
+    - Installing ruby: https://jekyllrb.com/docs/installation/
+    - Jekyll prereqs:  https://jekyllrb.com/docs/
+    - to serve the project: ``` bundle exec jekyll serve ```
