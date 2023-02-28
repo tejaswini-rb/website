@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WST Research Partnership 
+title: Arushi Aggarwal awarded Women, Science & Technology Fellowship 
 date: 2023-02-27
 ---
 
