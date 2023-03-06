@@ -8,4 +8,4 @@ The FishStalkers VIP is proud to announce that Math and CS Education team leader
 
 <br/>
 <img src="/website/images/wst_logo.png?raw=true" alt="WST Logo.jpg"
-     width="400">
+     width=600 height=400>
