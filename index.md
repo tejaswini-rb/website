@@ -6,8 +6,8 @@ layout: home
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
 
-<!-- ![picture of team](/images/team_vanleer.jpg) -->
+![picture of team](/images/team_vanleer.jpg)
 
-<img src="/images/team_vanleer.jpg?raw=true" alt="team picture" width="600" height="400">
+<!-- <img src="/images/team_vanleer.jpg?raw=true" alt="team picture" width="600" height="400"> -->
 
 <!-- This is the main page. We should put a picture and maybe a brief description of the team here. -->
