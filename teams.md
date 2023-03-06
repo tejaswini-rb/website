@@ -14,8 +14,9 @@ permalink: /teams/
 
 <h2>FishStalker Instructor:  Breanna (Bree) Shi</h2>
 
-<!-- ![picture of Bree ](/images/Bree_Bio.jpg) -->
-<img src="/images/Bree_Bio.jpg?raw=true"  alt= "picture of Bree" width="450" height="400">
+![picture of Bree ](/images/Bree_Bio.jpg)
+
+<!-- <img src="/images/Bree_Bio.jpg?raw=true"  alt= "picture of Bree" width="450" height="400"> -->
 
 <p>About the Instructor: Bree is a 22 year old PhD student in Bioinformatics with minors in Machine Learning and Higher Education. She holds the GEM, GAANN, and GFSD fellowships. She is engaged in computer vision and gene expression research with Lake Malawei cichlids in the McGrath lab.
 
