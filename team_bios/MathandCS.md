@@ -12,8 +12,8 @@ permalink: /MathandCS/
      width="400">
 <p><strong>About The Team Leader:</strong>  I'm a first year CS student at Tech and I'm really excited to lead a team that aims to promote the research and develop content for promoting education in STEM. I love trying out new things from learning electrical systems as part of Solar Racing to Ballroom Dancing in my free time. I also love all types of outdoor activities, hiking, or the time I went sky diving!</p>
 <br/>
-
+<!-- 
 <h3>Team Leader: Nadimul Bhuyan</h3>
 <img src="/website/images/Nadimul.jpg?raw=true" alt="Nadimul.jpg"
      width="400">
-<p><strong>About The Team Leader:</strong>  My hobbies include working out, cooking and hanging out with friends. I like to binge new tv shows and play soccer. An interesting fact about myself is that I have a vast knowledge of subjects that may seem trivial to others.</p>
+<p><strong>About The Team Leader:</strong>  My hobbies include working out, cooking and hanging out with friends. I like to binge new tv shows and play soccer. An interesting fact about myself is that I have a vast knowledge of subjects that may seem trivial to others.</p> -->
