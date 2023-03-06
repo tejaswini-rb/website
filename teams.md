@@ -32,7 +32,7 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 <h4>Team Leaders: Chinar Dankhara, Harini Mudradi, Asmita Lagwankar, Jahnavi Bhansali </h4>
 <h4>Project Leaders:</h4>
-<h4>Team members:</h4>
+<h4>Team members: Sunwoo Park, Anthony Le, Joseph Kirkland, Anush Nandyala, Farzad Ashfak</h4>
 
 # [ML Expression](/team_bios/MLExpression.md)
 
