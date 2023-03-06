@@ -44,4 +44,6 @@ Devs:
 - Installing ruby: https://jekyllrb.com/docs/installation/
 - Jekyll prereqs: https://jekyllrb.com/docs/
 - to serve the project: `bundle exec jekyll serve`
-- if making changes to \_config.yml file: first run either 'bundle update' or 'bundle install' then 'bundle exec jekyll serve' to see changes
+- if making changes to \_config.yml file:
+  - first run either `bundle update` or `bundle install`
+  - then `bundle exec jekyll serve`
