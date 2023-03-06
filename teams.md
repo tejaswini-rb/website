@@ -42,12 +42,12 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 # [Computer Science Analytics & Education](/team_bios/MathandCS.md)
 
-<h4>Team Leaders: Arushi Aggarwal, Nadimul Bhuyan</h4>
+<h4>Team Leaders: Arushi Aggarwal</h4>
 <h4>Project Leaders:</h4>
-<h4>Team members:</h4>
+<h4>Team members: Avinash Palliyil, Rohan Bhagat, Suhani Madarapu, Oluwaferanmi Akande, Edward Chong</h4>
 
 # [Social Behavior](/team_bios/SocialBehavior.md)
 
 <h4>Team Leaders: Annie Minor, Will Hancock</h4>
 <h4>Project Leaders:</h4>
-<h4>Team members:</h4>
+<h4>Team members: Emma Volkmann</h4>
