@@ -5,6 +5,4 @@ permalink: /contact/
 ## DO NOT EDIT ANYTHING ABOVE THIS
 ---
 
-<p> Contact us at: </p>
-
-<p> gtfishvip@gmail.com </p>
+<p> Contact us  <a href="https://forms.gle/GT8FRCUheWyJhuv56">HERE</a></p>

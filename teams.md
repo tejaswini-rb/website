@@ -12,17 +12,17 @@ permalink: /teams/
   </style>
 </head>
 
-<h2>VIP Leader</h2>
+<h2>FishStalker Instructor:  Breanna (Bree) Shi</h2>
 
 ![picture of Bree ](/images/Bree_Bio.jpg)
 
-<p>I am Breanna Shi, a 22 year old scientist and applied mathematician. Right now, I am a second year PhD student in Bioinformatics at Georgia Tech with minors in Machine Learning and Higher Education. I am engaged in exciting research in the McGrath lab, where I am conducting computer vision research with Lake Malawi Cichlids.
+<p>About the Instructor: Bree is a 22 year old PhD student in Bioinformatics with minors in Machine Learning and Higher Education. She holds the GEM, GAANN, and GFSD fellowships. She is engaged in computer vision and gene expression research with Lake Malawei cichlids in the McGrath lab.
 
-My research interests include Machine Learning, Modeling, Computational Biology, Biomathematics, and STEM education.</p>
+In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Mathematics from Stetson University. In 2021, she earned her Masters in Mathematics from the University of Minnesota as a Diversity of Views and Experiences Scholar. She has a passion for STEM education and ambitions to become a faculty member upon completion of her doctorate.</p>
 
-Lab Manager: Anand
+<h2>Lab Manager: Anand</h2>
 
-<!-- need bio for lab manager here? -->
+<!-- need bio and image for lab manager here -->
 
 <h2> Subteams </h2>
 
