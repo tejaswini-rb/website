@@ -37,4 +37,4 @@ Sponsors are essential for the proper execution of any research project. Conduct
 
 - No indirect costs are charged to Industry Affiliate funds, but fringe benefits may be charged if relevant to fund expenditures
 
-See [this flyer](https://www.vip.gatech.edu/sites/default/files/VIP%20Industry%20Affiliates%20Flyer%202020.pdf) for more information
+### See [this flyer](https://www.vip.gatech.edu/sites/default/files/VIP%20Industry%20Affiliates%20Flyer%202020.pdf) for more information
