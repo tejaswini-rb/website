@@ -36,7 +36,7 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 <h4>Team Leader: Harini Mudradi </h4>
 <h4>Team Leader: Asmita Lagwankar </h4>
-<h4>Team Leader: Jahnavi Bhansali </h4>
+<h4>Project Leader: Farzad Ashfak </h4>
 <h4>Team members: Sunwoo Park, Anthony Le, Joseph Kirkland, Anush Nandyala, Farzad Ashfak</h4>
 
 # [ML Expression](/team_bios/MLExpression.md)
@@ -74,4 +74,6 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 <p><strong>About Will:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
 
-<h4>Team members: Emma Volkmann</h4>
+<h4>Project Leader: Emma Volkmann</h4>
+<p><strong>About Emma:</strong> </p>
+<br/>
