@@ -63,7 +63,7 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 <h4>Team Leader: Annelie Minor</h4>
 
-![picture of Annelie](/images/Annie_Minor.jpg)
+![picture of Annie](/images/AnnieMinor2.jpg)
 
 <p><strong>About Annie:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
 <br/>
