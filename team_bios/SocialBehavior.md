@@ -10,6 +10,7 @@ permalink: /SocialBehavior/
 <br/>
 <img src="/website/images/socialbehaviour.jpg?raw=true" alt="socialbehaviour.jpg"
      width=700>
+     
 <!-- <h3>Team Leader: Annelie Minor</h3>
 <img src="/website/images/IMG_0974%20-%20Annie%20Minor.JPG?raw=true" alt="IMG_0974 - Annie Minor.JPG"
      width="600">
