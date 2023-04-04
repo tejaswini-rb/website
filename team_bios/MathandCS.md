@@ -9,6 +9,7 @@ permalink: /MathandCS/
 <br/>
 <img src="/website/images/mathcs.jpg?raw=true" alt="mathcs.jpg"
      width=700>
+     
 <!-- <h3>Team Leader: Arushi Aggarwal</h3>
 <img src="/website/images/Arushi%20Aggarwal.jpg?raw=true" alt="Arushi Aggarwal.jpg"
      width="400">
