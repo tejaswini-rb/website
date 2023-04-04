@@ -8,8 +8,7 @@ permalink: /MathandCS/
 <p><strong>About the Team:</strong> The CS, Math, and Education Team aims to focus on the education aspect of the research by creating by promoting and preparing educational materials teaching Math and CS to host conferences. At the end of the semester, we plan to have a conference on campus for graduate students to promote the education of Math and CS. We are currently preparing teaching content such as tutorials with datasets for linear algebra to numpy and pandas. Throughout our semester of research, we will be conducting research retention in order to focus on the most effective teaching strategies for all the sub groups through surveys and insights. This undertaking has allowed us to best understand the most optimal structure for the conference and understanding education in general to improve the performance and learning of the participants.</p>
 <br/>
 <img src="/website/images/mathcs.jpg?raw=true" alt="mathcs.jpg"
-     width=700>
-     
+     width=700>     
 <!-- <h3>Team Leader: Arushi Aggarwal</h3>
 <img src="/website/images/Arushi%20Aggarwal.jpg?raw=true" alt="Arushi Aggarwal.jpg"
      width="400">
