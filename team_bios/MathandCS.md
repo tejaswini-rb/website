@@ -14,11 +14,11 @@ permalink: /MathandCS/
      <li>An Introduction to Machine Learning</li>
 </ul>
 <h3>This event will be taking place on <strong>April 22nd, 2023</strong> in <strong>Klaus 1447</strong></h3>
-<br>
+<br/>
 <p>The code and data for this workshop are available <a href="https://github.com/FishStalkers/tutorials">here</a> </p>
-</br>
+<br/>
 <p>To register for this event, fill out this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg7jwm6TG3XVMtAuTV6MbtG5UNDRWTTJUVjU2UjlOWTZRVkdNN1IxUlpFSC4u">form</a>.</p>
-</br>
+<br>
 <p>To sign up to present a research poster at this event, fill out this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg7jwm6TG3XVMtAuTV6MbtG5UQlJZUkxPQ0ZCWVRIVFVGWjQxVUVGSjFVNy4u">form</a>.
 </p>
 <!--<h1> Math and CS Education</h1>
