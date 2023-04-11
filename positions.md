@@ -6,8 +6,8 @@ permalink: /positions/
 
 ## Head Marketing and Communication Researcher
 
-One of the most important parts of research is ensuring that your work is accurately communicated. Afterall, if we create all of these wonderful Machine Learning Pipelines, but no one ever hears about it .... what is the point? Thats why we at Fishstalkers are making it a high priority to ensure that are research is engaging a wide audience.
-Do you have strong writing and marketing skills and want to use these in a fast-pace STEM research setting? Please consider applying for this opening (All majors welcomed to apply!)
+One of the most important parts of research is ensuring that your work is accurately communicated. After all, if we create all of these wonderful machine learning pipelines, but no one ever hears about it .... what was the point? That is why we at Fishstalkers are making it a high priority to ensure that our research is engaging a wide audience.
+Do you have strong writing and marketing skills and want to use these in a fast-paced STEM research setting? Please consider applying for this opening (All majors welcomed to apply!)
 
 # Responsibilities
 
