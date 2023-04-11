@@ -10,7 +10,3 @@ permalink: /MLExpression/
 <br/>
 <img src="/website/images/expression.jpg?raw=true" alt="expression.jpg"
      width=700>
-
-<!-- <h3>Team Leader: Adam Bhavnagarwala</h3>
-<img src="/website/images/Adam%20Bhavnagarwala.jpg?raw=true" alt="Adam Bhavnagarwala.jpg">
-<p><strong>About The Team Leader:</strong> Hi! My name is Adam. I am a sophomore here at GT studying cs (Intelligence & People). I am originally from Danbury, CT. I like to play basketball, workout, and watch shows. Some fun facts about me: I have a twin and that I like to sleep.</p> -->
