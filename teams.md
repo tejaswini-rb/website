@@ -55,8 +55,15 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 ![picture of Arushi](/images/Arushi_Aggarwal.jpg)
 
-<p><strong>About Arushi:</strong>  I'm a first year CS student at Tech and I'm really excited to lead a team that aims to promote the research and develop content for promoting education in STEM. I love trying out new things from learning electrical systems as part of Solar Racing to Ballroom Dancing in my free time. I also love all types of outdoor activities, hiking, or the time I went sky diving!</p>
+<p><strong>About Arushi:</strong>  Arushi Aggarwal is an undergrad student in her first year of the CS program pursuing machine learning research under the guidance of Breanna Shi. She is a leader of the CS, Analytics, and Education group where she leads a group of 14 student researchers in multiple projects. Arushi has aspiration to go to grad school for machine learning and entrepreneurship. She is also passionate about ice skating and being part of various outdoor activities in her free time! She recently also won the Women, Science, and Technology Undergraduate Research Fellowship for her work as part of this research group.</p>
 <br/>
+
+<h4>Team Leader: Tejaswini Ramkumar Babu</h4>
+<!-- ![picture of Tejaswini](/images/) -->
+
+<p><strong>About Tejaswini:</strong> Tejaswini Ramkumar Babu is an undergraduate student in their 1st year of Computer Science pursuing machine learning research under the guidance of Breanna Shi. She is a leader of the CS Math and Analytics group where she leads a group of 14 of student researchers in multiple projects. Tejaswini has the aspiration to get a Masters in CS in the Human Centered Computing concentration. At Tech, she is involved in DramaTech, Medical Robotics, and Pride Alliance. She is also passionate about the outdoors, reading, and rock climbing.</p>
+<br/>
+
 <h4>Team members: Avinash Palliyil, Rohan Bhagat, Suhani Madarapu, Oluwaferanmi Akande, Edward Chong</h4>
 
 # [Social Behavior](/team_bios/SocialBehavior.md)
@@ -75,5 +82,6 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 <p><strong>About Will:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
 
 <h4>Project Leader: Emma Volkmann</h4>
-<p><strong>About Emma:</strong> </p>
+<p><strong>About Emma:</strong> Working towards a bachelor’s degree in Biology and Spanish Language, Emma is a Stamps President’s Scholar in her freshman year at Georgia Tech. Awarded the Fast Track to Research Scholarship in Fall 2023, she has been pursuing social behavior research under the guidance of Bree Shi with the McGrath Lab. In the social behavior group, she works with two other undergraduate students to create new experimental designs, explore and use different annotation platforms, and aid in the maintenance of the social behavior trials. In addition to these tasks, Emma and her group, working to improve their scientific presentation skills, will display their research in Spring 2023 at the Undergraduate Research Symposium. In the future, Emma hopes to work in medicine and attend either Medical or Veterinary school. Emma is passionate about service and mental health, wherein she holds the position of Health & Wellness Chair in her sorority on campus. In her spare time, she enjoys reading and baking.
+</p>
 <br/>
