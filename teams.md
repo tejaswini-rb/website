@@ -59,7 +59,8 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 <br/>
 
 <h4>Team Leader: Tejaswini Ramkumar Babu</h4>
-<!-- ![picture of Tejaswini](/images/) -->
+
+![picture of Tejaswini](/images/teja_ramkumar.jpeg)
 
 <p><strong>About Tejaswini:</strong> Tejaswini Ramkumar Babu is an undergraduate student in their 1st year of Computer Science pursuing machine learning research under the guidance of Breanna Shi. She is a leader of the CS Math and Analytics group where she leads a group of 14 of student researchers in multiple projects. Tejaswini has the aspiration to get a Masters in CS in the Human Centered Computing concentration. At Tech, she is involved in DramaTech, Medical Robotics, and Pride Alliance. She is also passionate about the outdoors, reading, and rock climbing.</p>
 <br/>
@@ -72,16 +73,19 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 ![picture of Annie](/images/AnnieMinor2.jpg)
 
-<p><strong>About Annie:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
+<p><strong>About Annie:</strong> Annelie Minor is a 3rd year undergraduate Biology student at Georgia Tech. She is pursuing research in cichlid social behavior under Breanna Shi, and co-leads the social behavior team as part of the Fishstalkers VIP. Annelie intends to pursue medicine after graduation. Outside of the lab, Annelie is part of the Georgia Tech marching band and band fraternity. She will be presenting her research at the 2023 Undergraduate Research Symposium alongside the social behavior team.</p>
 <br/>
 
 <h4>Team Leader: Will Hancock</h4>
 
 ![picture of Will](/images/Will_Hancock.jpg)
 
-<p><strong>About Will:</strong> I’m a third year biology major from Newtown CT. The main extracurricular I am a part of is the Georgia Tech marching band, where I play cymbals. I’m also part of Kappa Kappa Psi, a band fraternity, and lifeguard at the CRC. A cool fact about me is I have an identical twin.</p>
+<p><strong>About Will:</strong> William is pursuing his undergraduate degree in Biology, with Minors in Health & Medical Science and Physiology, from the Georgia Institute of Technology. He is currently researching cichlid social behavior under the mentorship of Breanna Shi and the McGrath Lab, and co-leads the VIP's social behavior team. William intends to enroll in Medical School after graduation, and is a passionate member of Georgia Tech's Ramblin' Reck Club. He will be presenting his research along with the rest of the social behavior team at the 2023 Undergraduate Research Seminar.</p>
 
 <h4>Project Leader: Emma Volkmann</h4>
+
+![picture of Emma](/images/emma_volkmann.jpg)
+
 <p><strong>About Emma:</strong> Working towards a bachelor’s degree in Biology and Spanish Language, Emma is a Stamps President’s Scholar in her freshman year at Georgia Tech. Awarded the Fast Track to Research Scholarship in Fall 2023, she has been pursuing social behavior research under the guidance of Bree Shi with the McGrath Lab. In the social behavior group, she works with two other undergraduate students to create new experimental designs, explore and use different annotation platforms, and aid in the maintenance of the social behavior trials. In addition to these tasks, Emma and her group, working to improve their scientific presentation skills, will display their research in Spring 2023 at the Undergraduate Research Symposium. In the future, Emma hopes to work in medicine and attend either Medical or Veterinary school. Emma is passionate about service and mental health, wherein she holds the position of Health & Wellness Chair in her sorority on campus. In her spare time, she enjoys reading and baking.
 </p>
 <br/>
