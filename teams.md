@@ -12,7 +12,7 @@ permalink: /teams/
   </style>
 </head>
 
-<h2>FishStalker Instructor:  Breanna (Bree) Shi</h2>
+<h2>Group Mentor:  Breanna (Bree) Shi</h2>
 
 ![picture of Bree ](/images/Bree_Bio.jpg)
 
@@ -20,43 +20,40 @@ permalink: /teams/
 
 In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Mathematics from Stetson University. In 2021, she earned her Masters in Mathematics from the University of Minnesota as a Diversity of Views and Experiences Scholar. She has a passion for STEM education and ambitions to become a faculty member upon completion of her doctorate.</p>
 
-<h2>Lab Manager: Anand Tsogtjargal</h2>
 
-<!-- need bio and image for Anand here -->
+<h2> Current members</h2>
 
-<h2> Subteams </h2>
+# [Pose-estimation Project](/team_bios/MLVideo.md)
 
-# [ML Computer Vision](/team_bios/MLVideo.md)
-
-<h4>Team Leader: Chinar Dankhara</h4>
-
+<h4> Michael ...</h4>
+fix image
 ![picture of Chinar](/images/Chinar_Dankhara.jpg)
 
-<p><strong>About The Team Leader:</strong> Coffee connoisseur. Machine Learning geek. Travel enthusiast. Microwave cultist</p>
+<h4> Ben ...</h4>
+fix image
+![picture of Chinar](/images/Chinar_Dankhara.jpg)
 
-<h4>Team Leader: Harini Mudradi </h4>
-<h4>Team Leader: Asmita Lagwankar </h4>
-<h4>Project Leader: Farzad Ashfak </h4>
-<h4>Team members: Sunwoo Park, Anthony Le, Joseph Kirkland, Anush Nandyala, Farzad Ashfak</h4>
+<h4 Harini Mudradi </h4>
+fix image 
+<h4> Asmita Lagwankar </h4>
+fix image 
 
-# [ML Expression](/team_bios/MLExpression.md)
+# [Single-Cell Analysis Project](/team_bios/MLExpression.md)
 
-<h4>Team Leader: Adam Bhav </h4>
+<h4>Veena ...</h4>
+fix image
 
 ![picture of Adam](/images/Adam_Bhav.jpg)
 
-<p><strong>About Adam:</strong> Hi! My name is Adam. I am a sophomore here at GT studying CS (Intelligence & People). I am originally from Danbury, CT. I like to play basketball, workout, and watch shows. Some fun facts about me: I have a twin and that I like to sleep.</p>
+# [Automated Pipeline Project](/team_bios/MathandCS.md)
 
-<h4>Team members: Noah Joseph, Daniel Lee, Kyla Jenkins</h4>
-
-# [Computer Science Analytics & Education](/team_bios/MathandCS.md)
-
-<h4>Team Leader: Arushi Aggarwal</h4>
+<h4>Jasmine Tata</h4>
+fix image
 
 ![picture of Arushi](/images/Arushi_Aggarwal.jpg)
 
-<p><strong>About Arushi:</strong>  Arushi Aggarwal is an undergrad student in her first year of the CS program pursuing machine learning research under the guidance of Breanna Shi. She is a leader of the CS, Analytics, and Education group where she leads a group of 14 student researchers in multiple projects. Arushi has aspiration to go to grad school for machine learning and entrepreneurship. She is also passionate about ice skating and being part of various outdoor activities in her free time! She recently also won the Women, Science, and Technology Undergraduate Research Fellowship for her work as part of this research group.</p>
-<br/>
+
+Administrative members
 
 <h4>Team Leader: Tejaswini Ramkumar Babu</h4>
 
@@ -65,27 +62,32 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 <p><strong>About Tejaswini:</strong> Tejaswini Ramkumar Babu is an undergraduate student in their 1st year of Computer Science pursuing machine learning research under the guidance of Breanna Shi. She is a leader of the CS Math and Analytics group where she leads a group of 14 of student researchers in multiple projects. Tejaswini has the aspiration to get a Masters in CS in the Human Centered Computing concentration. At Tech, she is involved in DramaTech, Medical Robotics, and Pride Alliance. She is also passionate about the outdoors, reading, and rock climbing.</p>
 <br/>
 
-<h4>Team members: Avinash Palliyil, Rohan Bhagat, Suhani Madarapu, Oluwaferanmi Akande, Edward Chong</h4>
-
-# [Social Behavior](/team_bios/SocialBehavior.md)
-
-<h4>Team Leader: Annelie Minor</h4>
+<h4> Annelie Minor</h4>
 
 ![picture of Annie](/images/AnnieMinor2.jpg)
 
 <p><strong>About Annie:</strong> Annelie Minor is a 3rd year undergraduate Biology student at Georgia Tech. She is pursuing research in cichlid social behavior under Breanna Shi, and co-leads the social behavior team as part of the Fishstalkers VIP. Annelie intends to pursue medicine after graduation. Outside of the lab, Annelie is part of the Georgia Tech marching band and band fraternity. She will be presenting her research at the 2023 Undergraduate Research Symposium alongside the social behavior team.</p>
 <br/>
 
-<h4>Team Leader: Will Hancock</h4>
+<h4> Will Hancock</h4>
 
 ![picture of Will](/images/Will_Hancock.jpg)
 
 <p><strong>About Will:</strong> William is pursuing his undergraduate degree in Biology, with Minors in Health & Medical Science and Physiology, from the Georgia Institute of Technology. He is currently researching cichlid social behavior under the mentorship of Breanna Shi and the McGrath Lab, and co-leads the VIP's social behavior team. William intends to enroll in Medical School after graduation, and is a passionate member of Georgia Tech's Ramblin' Reck Club. He will be presenting his research along with the rest of the social behavior team at the 2023 Undergraduate Research Seminar.</p>
 
-<h4>Project Leader: Emma Volkmann</h4>
 
-![picture of Emma](/images/emma_volkmann.jpg)
+Previous Members
 
-<p><strong>About Emma:</strong> Working towards a bachelor’s degree in Biology and Spanish Language, Emma is a Stamps President’s Scholar in her freshman year at Georgia Tech. Awarded the Fast Track to Research Scholarship in Fall 2023, she has been pursuing social behavior research under the guidance of Bree Shi with the McGrath Lab. In the social behavior group, she works with two other undergraduate students to create new experimental designs, explore and use different annotation platforms, and aid in the maintenance of the social behavior trials. In addition to these tasks, Emma and her group, working to improve their scientific presentation skills, will display their research in Spring 2023 at the Undergraduate Research Symposium. In the future, Emma hopes to work in medicine and attend either Medical or Veterinary school. Emma is passionate about service and mental health, wherein she holds the position of Health & Wellness Chair in her sorority on campus. In her spare time, she enjoys reading and baking.
-</p>
+<h4>Arushi Aggarwal</h4>
+
+![picture of Arushi](/images/Arushi_Aggarwal.jpg)
+
+<h4>Adam Bhav </h4>
+
+![picture of Adam](/images/Adam_Bhav.jpg)
+
+<h4>Chinar Dankhara</h4>
+
+![picture of Chinar](/images/Chinar_Dankhara.jpg)
+
 <br/>
