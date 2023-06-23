@@ -25,9 +25,10 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 
 # [Pose-estimation Project](/team_bios/MLVideo.md)
 
-<h4> Ben ...</h4>
-fix image
-![picture of Chinar](/images/Chinar_Dankhara.jpg)
+<h4> Ben Stracner</h4>
+![picture of Ben](/images/Ben Stracner.jpg)
+<p><strong> About Ben:</strong> Ben Stracner is a 4th year undergraduate Computer Science student at Georgia Tech. He is pursuing research in Computer Vision under Breanna Shi as part of Fishstalkers team. After graduation, he intends to pursue a Masters in CS through the BS/MS program. Ben is also an involved member of Fashion@GT and Georgia Tech Barbell Club.</p>
+<br/>
 
 <h4 Harini Mudradi </h4>
 fix image 
