@@ -43,7 +43,7 @@ fix image
 <p><strong>About Veena:</strong> Veena Gonugondla is a second year undergraduate student studying Computer Science. She is currently researching single-cell analysis under the mentorship of Breanna Shi. As a women, science, and technology fellow, she works to develop educational tools to facilitate discussion about upcoming technology-related topics and foster a collaborative environment by leading the Machine Learning and Bioinformatics journal clubs. Outside of lab, she loves dancing and travelling around the world! </p>
 <br/>
 
-<h4>Veena Gonugondla</h4>
+<h4>Jameson Pham</h4>
 
 ![picture of Jameson](/images/Jameson Pham.jpg)
 <p><strong>About Jameson:</strong> Jameson is a third-year undergraduate pursuing his degree in Neuroscience with a minor in HMED. He is currently part of the McGrath Lab and works on the single-cell analysis project under the supervision of Breanna Shi. After his undergraduate years, he intends on enrolling in a graduate program for anesthesiology to pursue his passion for medicine. At Tech, he is  involved with the Vietnamese Student Association and enjoys playing tennis and basketball during his free time. </p>
