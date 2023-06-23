@@ -16,6 +16,7 @@ Myself and my mentee group (FishStalkers) are proud to announce are our twice we
 
 <p>Machine Learning Journal Club: Mondays 5 - 6 PM EST </p>
 <p>Source materials: [https://lnkd.in/g-c_xauf] (https://lnkd.in/g-c_xauf) </p>
+<a href="https://lnkd.in/g-c_xauf">https://lnkd.in/g-c_xauf</a>
 <p>Join the teams chat: [https://lnkd.in/eybtduAJ] (https://lnkd.in/eybtduAJ) </p>
 
 <p>Bioinformatics Journal Club: Thursdays 5 - 6 PM EST </p>
