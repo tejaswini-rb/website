@@ -26,7 +26,7 @@ In 2020, she earned her Bachelor's in Mathematics as an Outstanding Senior in Ma
 # [Pose-estimation Project](/team_bios/MLVideo.md)
 
 <h4> Ben Stracner</h4>
-![picture of Ben](/images/Ben Stracner.jpg)
+![picture of Ben](/images/Ben Stracner.png)
 <p><strong> About Ben:</strong> Ben Stracner is a 4th year undergraduate Computer Science student at Georgia Tech. He is pursuing research in Computer Vision under Breanna Shi as part of Fishstalkers team. After graduation, he intends to pursue a Masters in CS through the BS/MS program. Ben is also an involved member of Fashion@GT and Georgia Tech Barbell Club.</p>
 <br/>
 
@@ -39,7 +39,7 @@ fix image
 
 <h4>Veena Gonugondla</h4>
 
-![picture of Veena](/images/Veena Gonugondla.jpg)
+![picture of Veena](/images/Veena Gonugondla.png)
 <p><strong>About Veena:</strong> Veena Gonugondla is a second year undergraduate student studying Computer Science. She is currently researching single-cell analysis under the mentorship of Breanna Shi. As a women, science, and technology fellow, she works to develop educational tools to facilitate discussion about upcoming technology-related topics and foster a collaborative environment by leading the Machine Learning and Bioinformatics journal clubs. Outside of lab, she loves dancing and travelling around the world! </p>
 <br/>
 
